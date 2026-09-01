@@ -9,7 +9,6 @@
     <h1> Oi, eu sou a Isabela! 
 
  Sou estudante e gosto de programação.
-Apaixonada pelo Snoopy.
  Sempre aprendendo e criando novos projetos.
 
 Aqui no meu GitHub compartilho um pouco dos meus projetos, estudos e coisas que estou aprendendo sobre programação.
